@@ -2,14 +2,19 @@
 08.2022--HTML-CSS-(second project).
 Second weblayout with using (HTML, CSS, Bootstrap).                                                                                                   
 Tools for this project:
-                 ---*Bootstrap(responsive layout tool).
-                 ---*Figma.                                      ---*flex-box.   
-                 ---*validator(https://validator.w3.org/).       ---*pseudo Class&Elements. 
-                 ---*plagin Editor config for VS.code            ---*castom variables ( --var: red ).
-                 ---*plagin Emmet.                               ---*functions: {  calc, min. max, filter:blur,grayscale }  
-                 ---*BEM-Code Stile with Methodologies.          ---*columns, breackinside.   
-                 ---*yoksel.github.io/html-tree - BEM  
-                 ---*markup elements.    
+                ____Bootstrap(responsive layout tool).
+                ____Figma.                                      
+                ____validator(https://validator.w3.org/).    
+                ____plagin Editor config for VS.code         
+                ____plagin Emmet.                             
+                ____BEM-Code Stile with Methodologies.        
+                ____yoksel.github.io/html-tree - BEM  
+                ____markup elements.    
+                ____flex-box. 
+                 ____pseudo Class&Elements. 
+                  ____castom variables ( --var: red ).
+                  ____functions: {  calc, min. max, filter:blur,grayscale }  
+                   ____columns, breackinside.  
  *basic tags.              *scrolling.                                        *content & decorative imagrs
  *image tags.              *z-index (layers).                                 *text owerflow - (check)       
  *links.                   *flow.                                             *<audio>, <video>
